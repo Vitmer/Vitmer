@@ -1,6 +1,8 @@
-# **🌟 Welcome to My GitHub Profile**
+# **🚀 Welcome to My GitHub – Cloud Architect & Multi-Cloud Expert**
 
-👋 Hi! I specialize in **Cloud Architecture, MLOps, and Data Engineering**, with a portfolio of **production-ready projects** showcasing advanced skills in cloud infrastructure, data processing, and automation. 🚀
+👋 Hi! I'm a **Cloud Architect specializing in Multi-Cloud (AWS & Azure), Infrastructure Automation, and MLOps**.  
+I design **scalable, secure, and high-performance cloud architectures**, ensuring cost efficiency, security, and automation.  
+Here you'll find **production-ready cloud solutions**, advanced **infrastructure deployments**, and cloud-native AI projects.  
 
 ---
 
@@ -67,11 +69,12 @@
 
 ## **💻 Tech Stack**
 🔹 **Cloud Platforms:** AWS, Azure  
-🔹 **IaC Tools:** Terraform, CloudFormation  
-🔹 **Containerization:** Docker, Kubernetes (EKS, AKS)  
-🔹 **CI/CD:** GitHub Actions, ArgoCD, FluxCD  
+🔹 **Infrastructure as Code:** Terraform, CloudFormation  
+🔹 **Containerization & Orchestration:** Docker, Kubernetes (EKS, AKS)  
+🔹 **CI/CD & Automation:** GitHub Actions, ArgoCD, Terraform  
 🔹 **Monitoring & Observability:** Prometheus, Grafana, Loki  
-🔹 **Programming Languages:** Python, HCL  
+🔹 **Cloud Security & Networking:** IAM, RBAC, KMS, Zero Trust Architecture  
+🔹 **MLOps & AI:** Kubernetes-based AI serving, RAG, Cloud-Native ML Pipelines   
 
 ---
 
