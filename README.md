@@ -30,16 +30,16 @@ Here you'll find **production-ready cloud solutions**, advanced **infrastructure
 
 ---
 
-### **3. [Big Data Analytics for Financial and Climate Data](https://github.com/Vitmer/Big_Data_Analytics_for_Financial_and_Climate_Data)**  
-**🚧 Status:** In development (since January 2025)  
-🎯 **Goal:** Build a scalable analytics platform for financial, climate, and IoT data.  
-✅ **Planned Features:**  
-- Real-time data ingestion via Apache Kafka and AWS Kinesis.  
-- Advanced analytics with Apache Spark and Databricks.  
-- Scalable storage solutions using AWS S3 and Azure Data Lake.  
-- Actionable insights through Power BI and Grafana dashboards.  
+### **3. [Cloud Network Architecture: Hub-and-Spoke Model with Terraform](https://github.com/Vitmer/Cloud_Network_Architecture)**  
+✅ **Description:** Designed and deployed a **Hub-and-Spoke network architecture** for **secure, scalable, and production-ready cloud environments**.  
+✅ **Highlights:**  
+- **Networking** – Secure VNet peering, VPN, and ExpressRoute connectivity.  
+- **Security & Compliance** – Zero Trust, RBAC, Key Vault, and DDoS protection.  
+- **CI/CD Automation** – Infrastructure deployment with **Terraform & GitHub Actions**.  
+- **Monitoring & Alerts** – Integrated **Azure Monitor, Log Analytics, and Sentinel**.  
+- **Database Support** – SQL, CosmosDB for flexible and scalable data storage.  
 
-**Technologies:** Apache Kafka, AWS Kinesis, Python, Spark, Databricks, Terraform, Power BI, Grafana  
+**Technologies:** Azure (VNet, VPN, ExpressRoute, Security Center, Monitor, Sentinel), Terraform, GitHub Actions  
 
 ---
 
@@ -56,17 +56,6 @@ Here you'll find **production-ready cloud solutions**, advanced **infrastructure
 
 ---
 
-### **5. [RAG Pipeline – AI-Powered Document Search & Retrieval](https://github.com/Vitmer/RAG-Pipeline)**  
-✅ **Description:** Developed a Retrieval-Augmented Generation (RAG) pipeline for intelligent document search and processing.  
-✅ **Highlights:**  
-- Automated text extraction using PyMuPDF and Tesseract OCR.  
-- Implemented FAISS for high-speed semantic search and embedding indexing.  
-- Applied Sentence Transformers to enhance query relevance and accuracy.  
-
-**Technologies:** Python, PyMuPDF, Tesseract, FAISS, Sentence Transformers  
-
----
-
 ## **💻 Tech Stack**
 🔹 **Cloud Platforms:** AWS, Azure  
 🔹 **Infrastructure as Code:** Terraform, CloudFormation  
@@ -80,4 +69,3 @@ Here you'll find **production-ready cloud solutions**, advanced **infrastructure
 
 ## **📢 Let’s Connect**
 🌐 [LinkedIn](https://www.linkedin.com/in/vitalij-merenics-451331249/) | 🌐 [GitHub](https://github.com/Vitmer)
-
