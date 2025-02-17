@@ -44,15 +44,19 @@ Here you'll find **production-ready cloud solutions**, advanced **infrastructure
 ---
 
 ### **4. [MLOps Classification – AI Model Deployment with Cloud Automation](https://github.com/Vitmer/MLOps-Classification-with-Cloud-Deployment-Options)**  
-**🚧 Status:** Under development  
-🎯 **Goal:** Create a fully production-ready MLOps architecture meeting Senior Cloud Architect standards.  
-✅ **Planned Features:**  
-- Kubernetes-based model serving with auto-scaling and load balancing.  
-- CI/CD pipelines for automated ML model deployments using ArgoCD.  
-- Real-time monitoring with Prometheus and Grafana.  
-- Multi-cloud compatibility for seamless scalability.  
+🚧 Status: Active development (Aug 2024 – Present)
+🎯 Goal: Build a Cloud-Native MLOps platform that aligns with Senior Cloud Architect standards, focusing on scalability, automation, and observability.
+✅ **Description:** Designed a Cloud-Native MLOps platform for scalable, automated, and production-ready AI deployments using Kubernetes & GitOps.
+✅ **Highlights:**
+	•	Model Deployment & Scaling – Kubernetes-based model serving with HPA, VPA, and Cluster Autoscaler.
+	•	CI/CD Automation – ArgoCD & GitHub Actions for fully automated ML model deployment.
+	•	Observability & Monitoring – Integrated Prometheus, Grafana, and OpenTelemetry for real-time model tracking.
+	•	Multi-Cloud Support – Designed for AWS & Azure with Terraform-based infrastructure provisioning.
+	•	Security & Governance – IAM roles, RBAC policies, and secure model versioning.
 
-**Technologies:** Python, Docker, Kubernetes, Prometheus, Grafana, Terraform, CI/CD  
+**Technologies:** Python, FastAPI, Docker, Kubernetes, Helm, ArgoCD, Terraform, Prometheus, Grafana, GitHub Actions, AWS, Azure.
+
+🔥 A scalable, automated, and cloud-native MLOps architecture for production AI deployments.
 
 ---
 
