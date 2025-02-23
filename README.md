@@ -11,7 +11,7 @@ Here you'll find **production-ready cloud solutions**, advanced **infrastructure
 ### **1. [AWS Data Infrastructure – Scalable & Secure Cloud Architecture](https://github.com/Vitmer/AWS_Data_Infra_Project)**  
 ✅ **Description:** Designed and deployed an enterprise-grade AWS infrastructure ensuring high availability, cost optimization, and automated scalability using Terraform.  
 ✅ **Highlights:**  
-- Architected a secure AWS network with VPC, public/private subnets, NAT Gateway, and Bastion Host.  
+- Architected a secure AWS network with VPC, public/private subnets, NAT Gateway and AWS Systems Manager Session Manager.  
 - Implemented Amazon S3, Glue-based ETL pipelines, and Redshift for optimized data processing.  
 - Configured IAM roles and AWS KMS encryption for compliance and security best practices.  
 
@@ -22,7 +22,7 @@ Here you'll find **production-ready cloud solutions**, advanced **infrastructure
 ### **2. [Azure Data Infrastructure – Scalable & Secure Cloud Architecture](https://github.com/Vitmer/Azure_Data_Infra_Project)**  
 ✅ **Description:** Developed a production-ready Azure infrastructure with Terraform, ensuring scalability, high availability, and advanced analytics capabilities.  
 ✅ **Highlights:**  
-- Architected a secure Azure VNet with NAT Gateway, Bastion Host, and NSGs.  
+- Architected a secure Azure VNet with NAT Gateway, Azure Bastion and NSGs.  
 - Automated ETL pipelines with Azure Data Factory and Databricks.  
 - Integrated Power BI and Synapse Analytics for real-time analytics and interactive dashboards.  
 
