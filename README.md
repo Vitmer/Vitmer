@@ -75,3 +75,4 @@
 
 ## **📢 Let’s Connect**
 🌐 [LinkedIn](https://www.linkedin.com/in/vitalij-merenics-451331249/) | 🌐 [GitHub](https://github.com/Vitmer)
+
