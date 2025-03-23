@@ -52,20 +52,7 @@
 - Enabled CloudTrail, AWS Config, and GuardDuty for real-time auditing and threat detection.
 - Deployed modular VPC, ECS, S3, and IAM infrastructure with GitHub-integrated Terraform workflows.
 
-**Technologies:** AWS (Organizations, IAM, VPC, CloudTrail, Config, GuardDuty, ECS, S3), Terraform, GitHub Actionsions)**  
-🚧 Status: Active development (Aug 2024 – Present)
-🎯 Goal: Build a Cloud-Native MLOps platform that aligns with Senior Cloud Architect standards, focusing on scalability, automation, and observability.
-✅ **Description:** Designed a Cloud-Native MLOps platform for scalable, automated, and production-ready AI deployments using Kubernetes & GitOps.
-✅ **Highlights:**
-	•	Model Deployment & Scaling – Kubernetes-based model serving with HPA, VPA, and Cluster Autoscaler.
-	•	CI/CD Automation – ArgoCD & GitHub Actions for fully automated ML model deployment.
-	•	Observability & Monitoring – Integrated Prometheus, Grafana, and OpenTelemetry for real-time model tracking.
-	•	Multi-Cloud Support – Designed for AWS & Azure with Terraform-based infrastructure provisioning.
-	•	Security & Governance – IAM roles, RBAC policies, and secure model versioning.
-
-**Technologies:** Python, FastAPI, Docker, Kubernetes, Helm, ArgoCD, Terraform, Prometheus, Grafana, GitHub Actions, AWS, Azure.
-
-🔥 A scalable, automated, and cloud-native MLOps architecture for production AI deployments.
+**Technologies:** AWS (Organizations, IAM, VPC, CloudTrail, Config, GuardDuty, ECS, S3), Terraform, GitHub Actions)**  
 
 ---
 
