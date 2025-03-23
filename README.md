@@ -45,7 +45,14 @@
 
 ---
 
-### **4. [MLOps Classification – AI Model Deployment with Cloud Automation](https://github.com/Vitmer/MLOps-Classification-with-Cloud-Deployment-Options)**  
+### **4. [CloudTower – AWS Landing Zone Infrastructure with Terraform](https://github.com/Vitmer/CloudTower-AWS-Landing-Zone-Infrastructure-with-Terraform)**
+✅ **Description:** Built a production-grade AWS Landing Zone architecture using Terraform modules to support multi-account structure, logging, security, and service control policies.
+✅ **Highlights:**
+- Implemented multi-account setup using AWS Organizations with SCP and centralized security boundaries.
+- Enabled CloudTrail, AWS Config, and GuardDuty for real-time auditing and threat detection.
+- Deployed modular VPC, ECS, S3, and IAM infrastructure with GitHub-integrated Terraform workflows.
+
+**Technologies:** AWS (Organizations, IAM, VPC, CloudTrail, Config, GuardDuty, ECS, S3), Terraform, GitHub Actionsions)**  
 🚧 Status: Active development (Aug 2024 – Present)
 🎯 Goal: Build a Cloud-Native MLOps platform that aligns with Senior Cloud Architect standards, focusing on scalability, automation, and observability.
 ✅ **Description:** Designed a Cloud-Native MLOps platform for scalable, automated, and production-ready AI deployments using Kubernetes & GitOps.
@@ -75,4 +82,3 @@
 
 ## **📢 Let’s Connect**
 🌐 [LinkedIn](https://www.linkedin.com/in/vitalij-merenics-451331249/) | 🌐 [GitHub](https://github.com/Vitmer)
-
