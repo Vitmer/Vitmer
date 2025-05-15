@@ -1,6 +1,6 @@
-## 🚀 Welcome to My GitHub – Senior Cloud & DevOps Engineer | Multi-Cloud Expert
+## 🚀 Welcome to My GitHub – System and DevOps Architect | Multi-Cloud Infrastructure & Automation
 
-👋 Hi! I’m a Senior Cloud & DevOps Engineer specializing in multi-cloud architectures (Azure & AWS), infrastructure automation with Terraform, and secure MLOps deployments.
+👋 Hi! I’m a System and DevOps Architect specializing in enterprise-grade cloud architecture, infrastructure automation, and secure platform engineering across AWS, Azure, and hybrid environments.
 
 🔧 I design and deliver scalable, secure, and cost-optimized cloud platforms, combining the best of DevOps, FinOps, and Security best practices.
 
