@@ -1,8 +1,9 @@
-## 🚀 Welcome to My GitHub – System and DevOps Architect | Multi-Cloud Infrastructure & Automation
+## 🚀 Welcome to My GitHub – Cloud Platform & DevOps Architect
+Hands-on AWS & Azure infrastructure, automation and cost control
 
-👋 Hi! I’m a System and DevOps Architect specializing in enterprise-grade cloud architecture, infrastructure automation, and secure platform engineering across AWS, Azure, and hybrid environments.
+I design and implement production-ready cloud platforms on AWS and Azure, focusing on automation, governance, security and cost efficiency.
 
-🔧 I design and deliver scalable, secure, and cost-optimized cloud platforms, combining the best of DevOps, FinOps, and Security best practices.
+My work is hands-on and based on real-world infrastructure patterns used in enterprise environments.
 
 📂 Here you’ll find production-ready infrastructure blueprints, cloud-native AI systems, and advanced automation pipelines built for real enterprise needs. 
 
