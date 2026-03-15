@@ -1,72 +1,161 @@
-## 🚀 Welcome to My GitHub – Cloud Platform & DevOps Architect
-Hands-on AWS & Azure infrastructure, automation and cost control
+## 🚀 Welcome to My GitHub – Cloud Platform & DevOps Engineering
 
-I design and implement production-ready cloud platforms on AWS and Azure, focusing on automation, governance, security and cost efficiency.
+Hands-on cloud platform engineering focused on AWS, Azure and infrastructure automation.
 
-My work is hands-on and based on real-world infrastructure patterns used in enterprise environments.
+I design and implement production-ready cloud platforms with strong focus on automation, governance, security and cost efficiency.  
+My work is based on real enterprise infrastructure patterns used in production environments.
 
-📂 Here you’ll find production-ready infrastructure blueprints, cloud-native AI systems, and advanced automation pipelines built for real enterprise needs. 
-
----
-
-## **🔥 Key Projects**
-
-### **1. [AWS Data Infrastructure – Scalable & Secure Cloud Architecture](https://github.com/Vitmer/AWS_Data_Infra_Project)**  
-✅ **Description:** Designed and deployed an enterprise-grade AWS infrastructure ensuring high availability, cost optimization, and automated scalability using Terraform.  
-✅ **Highlights:**  
-- Architected a secure AWS network with VPC, public/private subnets, NAT Gateway and AWS Systems Manager Session Manager.  
-- Implemented Amazon S3, Glue-based ETL pipelines, and Redshift for optimized data processing.  
-- Configured IAM roles and AWS KMS encryption for compliance and security best practices.  
-
-**Technologies:** AWS (VPC, EC2, S3, Glue, Redshift, QuickSight, KMS), Terraform, Python  
+This repository collection contains cloud infrastructure blueprints, landing zone architectures, automation pipelines and platform engineering examples.
 
 ---
 
-### **2. [Azure Data Infrastructure – Scalable & Secure Cloud Architecture](https://github.com/Vitmer/Azure_Data_Infra_Project)**  
-✅ **Description:** Developed a production-ready Azure infrastructure with Terraform, ensuring scalability, high availability, and advanced analytics capabilities.  
-✅ **Highlights:**  
-- Architected a secure Azure VNet with NAT Gateway, Azure Bastion and NSGs.  
-- Automated ETL pipelines with Azure Data Factory and Databricks.  
-- Integrated Power BI and Synapse Analytics for real-time analytics and interactive dashboards.  
+# 🔥 Enterprise Platform Projects
 
-**Technologies:** Azure (VNet, Data Factory, Synapse, Databricks, Monitor, Key Vault), Terraform, Power BI, Spark, Python  
+### 1. Enterprise Multi-Account AWS Platform  
+**Client:** FINNOFLEET BMI GmbH
 
----
+**Description**
 
-### **3. [Cloud Network Architecture: Hub-and-Spoke Model with Terraform](https://github.com/Vitmer/Cloud_Network_Architecture)**  
-✅ **Description:** Designed and deployed a **Hub-and-Spoke network architecture** for **secure, scalable, and production-ready cloud environments**.  
-✅ **Highlights:**  
-- **Networking** – Secure VNet peering, VPN, and ExpressRoute connectivity.  
-- **Security & Compliance** – Zero Trust, RBAC, Key Vault, and DDoS protection.  
-- **CI/CD Automation** – Infrastructure deployment with **Terraform & GitHub Actions**.  
-- **Monitoring & Alerts** – Integrated **Azure Monitor, Log Analytics, and Sentinel**.  
-- **Database Support** – SQL, CosmosDB for flexible and scalable data storage.  
+Designed and implemented a centralized AWS multi-account cloud platform supporting enterprise SaaS workloads across multiple environments.
 
-**Technologies:** Azure (VNet, VPN, ExpressRoute, Security Center, Monitor, Sentinel), Terraform, GitHub Actions  
+The platform provides centralized governance, security, monitoring and standardized infrastructure provisioning across client environments.
 
----
+**Highlights**
 
-### **4. [CloudTower – AWS Landing Zone Infrastructure with Terraform](https://github.com/Vitmer/CloudTower-AWS-Landing-Zone-Infrastructure-with-Terraform)**
-✅ **Description:** Built a production-grade AWS Landing Zone architecture using Terraform modules to support multi-account structure, logging, security, and service control policies.
-✅ **Highlights:**
-- Implemented multi-account setup using AWS Organizations with SCP and centralized security boundaries.
-- Enabled CloudTrail, AWS Config, and GuardDuty for real-time auditing and threat detection.
-- Deployed modular VPC, ECS, S3, and IAM infrastructure with GitHub-integrated Terraform workflows.
+- Designed **CoreHub → ClientHub → Spoke architecture** for multi-account governance.
+- Implemented centralized **CloudTrail, Config, GuardDuty and Security Hub** monitoring.
+- Built reusable **Terraform / Terragrunt platform modules**.
+- Implemented centralized **logging, monitoring and alerting**.
+- Integrated **Image Factory and runtime automation using AWS Systems Manager**.
+- Implemented secure networking architecture with VPC segmentation and service endpoints.
 
-**Technologies:** AWS (Organizations, IAM, VPC, CloudTrail, Config, GuardDuty, ECS, S3), Terraform, GitHub Actions)**  
+**Technologies**
+
+AWS, Terraform, Terragrunt, IAM, CloudTrail, Config, GuardDuty, Security Hub, CloudWatch, SSM
 
 ---
 
-## **💻 Tech Stack**
-🔹 **Cloud Platforms:** AWS, Azure  
-🔹 **Infrastructure as Code:** Terraform, CloudFormation  
-🔹 **Containerization & Orchestration:** Docker, Kubernetes (EKS, AKS)  
-🔹 **CI/CD & Automation:** GitHub Actions, ArgoCD, Terraform  
-🔹 **Monitoring & Observability:** Prometheus, Grafana, Loki  
-🔹 **Cloud Security & Networking:** IAM, RBAC, KMS, Zero Trust Architecture  
-🔹 **MLOps & AI:** Kubernetes-based AI serving, RAG, Cloud-Native ML Pipelines   
+### 2. Automated Runtime Platform & Image Factory  
+**Client:** FINNOFLEET BMI GmbH
+
+**Description**
+
+Designed and implemented an automated runtime infrastructure platform based on **AWS EC2 Image Builder and AWS Systems Manager** for enterprise application deployment.
+
+The system enables reproducible infrastructure, automated application provisioning and centralized runtime configuration.
+
+**Highlights**
+
+- Implemented automated **AMI Image Factory pipeline** with versioned images.
+- Built **runtime configuration pipeline via AWS Systems Manager (SSM)**.
+- Implemented automated **application bootstrap and service initialization**.
+- Integrated **CloudWatch logging and S3 log synchronization**.
+- Enabled reproducible deployments with minimal configuration drift.
+
+**Technologies**
+
+AWS EC2 Image Builder, AWS Systems Manager, Terraform, Bash, Linux, CloudWatch
 
 ---
 
-## **📢 Let’s Connect**
-🌐 [LinkedIn](https://www.linkedin.com/in/vitalij-merenics-451331249/) | 🌐 [GitHub](https://github.com/Vitmer)
+# 🔥 Key Public Projects
+
+### 3. [AWS Data Infrastructure – Scalable & Secure Cloud Architecture](https://github.com/Vitmer/AWS_Data_Infra_Project)
+
+**Description**
+
+Enterprise-grade AWS infrastructure ensuring high availability, cost optimization and automated scalability using Terraform.
+
+**Highlights**
+
+- Secure AWS networking with VPC, public/private subnets and NAT Gateway.
+- Data platform using Amazon S3, Glue ETL pipelines and Redshift.
+- IAM roles and AWS KMS encryption for security and compliance.
+
+**Technologies**
+
+AWS (VPC, EC2, S3, Glue, Redshift, QuickSight, KMS), Terraform, Python
+
+---
+
+### 4. [Azure Data Infrastructure – Scalable & Secure Cloud Architecture](https://github.com/Vitmer/Azure_Data_Infra_Project)
+
+**Description**
+
+Production-ready Azure infrastructure implemented with Terraform for scalable analytics and data processing pipelines.
+
+**Highlights**
+
+- Secure Azure networking with VNet, NAT Gateway and Azure Bastion.
+- Automated ETL pipelines with Azure Data Factory and Databricks.
+- Analytics integration with Power BI and Synapse.
+
+**Technologies**
+
+Azure (VNet, Data Factory, Synapse, Databricks, Monitor, Key Vault), Terraform, Power BI, Spark, Python
+
+---
+
+### 5. [Cloud Network Architecture – Hub-and-Spoke Model with Terraform](https://github.com/Vitmer/Cloud_Network_Architecture)
+
+**Description**
+
+Hub-and-Spoke network architecture for secure and scalable enterprise environments.
+
+**Highlights**
+
+- Secure network segmentation with VNet peering and VPN connectivity.
+- Security architecture with Zero Trust, RBAC and Key Vault.
+- CI/CD automation with Terraform and GitHub Actions.
+- Monitoring using Azure Monitor and Log Analytics.
+
+**Technologies**
+
+Azure Networking, Terraform, GitHub Actions
+
+---
+
+### 6. [CloudTower – AWS Landing Zone Infrastructure with Terraform](https://github.com/Vitmer/CloudTower-AWS-Landing-Zone-Infrastructure-with-Terraform)
+
+**Description**
+
+Production-grade AWS Landing Zone architecture implemented with Terraform modules supporting multi-account governance.
+
+**Highlights**
+
+- Multi-account setup using AWS Organizations and SCP.
+- Centralized security monitoring with CloudTrail, Config and GuardDuty.
+- Modular infrastructure for VPC, ECS, S3 and IAM.
+
+**Technologies**
+
+AWS (Organizations, IAM, VPC, CloudTrail, Config, GuardDuty, ECS, S3), Terraform, GitHub Actions
+
+---
+
+# 💻 Tech Stack
+
+**Cloud Platforms**  
+AWS, Azure
+
+**Infrastructure as Code**  
+Terraform, Terragrunt, CloudFormation
+
+**Containers & Orchestration**  
+Docker, Kubernetes (EKS, AKS)
+
+**CI/CD & Automation**  
+GitHub Actions, GitLab CI/CD, ArgoCD
+
+**Monitoring & Observability**  
+Prometheus, Grafana, Loki, CloudWatch
+
+**Cloud Security & Networking**  
+IAM, RBAC, KMS, Zero Trust Architecture
+
+---
+
+## 📢 Let’s Connect
+
+🌐 [LinkedIn](https://www.linkedin.com/in/vitalij-merenics-451331249/)  
+🌐 [GitHub](https://github.com/Vitmer)
